@@ -9,7 +9,7 @@ A responsive web application using React and Tailwind CSS that allows users to e
 Make sure you have Node.js installed, then:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pokemon-explorer.git
+git clone https://github.com/Zorbrist/pokemon-explorer.git
 cd pokemon-explorer
 npm install
 npm start
